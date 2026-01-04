@@ -1,0 +1,3 @@
+hererequests==2.31.0
+SignerPy==1.0.0
+hsopyt==1.0.0
