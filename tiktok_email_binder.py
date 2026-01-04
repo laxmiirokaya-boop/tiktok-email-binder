@@ -28,7 +28,7 @@ class TikTokEmailBinder:
             }
         else:
             # بروكسي افتراضي
-            default = '8c85946d55686edcaa7f:a6b7aa8175c17bd5@gw.dataimpulse.com:823'
+            default = 'zPLt8SeGouLa9hnh:wCKFQE323di6CDkj@geo.g-w.info:10080'
             return {
                 "http": f"http://{default}",
                 "https": f"http://{default}"
